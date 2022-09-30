@@ -7,4 +7,4 @@ The final product of our project was a website. We demonstrated our frontend dev
 # My contribution:
 I did major portion of the designing part by using CSS. I was tasked to make the links and buttons functional, which I did religiously.
 # Note:
-The snapshots of the project have been added in the folder 'Snapshot' fo 1st look.
+The snapshots of the project have been added in the folder 'Snapshot' for 1st look.
